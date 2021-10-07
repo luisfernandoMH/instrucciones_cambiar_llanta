@@ -1,2 +1,2 @@
-1 datos aun sin especificar 
-2 revisa  donde estan los datos 
+estas son las instrucciones para cambiar una llanta  
+favor de ir a  cambios.txt para mayor información 
